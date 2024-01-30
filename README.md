@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @katlev89 - Kateryna Levchenko
+- I’m an aspiring Junior Data Scientist, Mid-Level Customer Care Specialist and Senior Concert Pianist and Piano Teacher :-)
+- 🌱 I’m currently studying with @HyperionDev at intensive Data Science Bootcamp.
+- 💞️ I’m looking to collaborate on any project suitable for an entry level data/software engineer.
+- 📫 How to reach me: please send me an email, drop me a message on my LinkedIn profile or Facebook profile!
+- 😄 Pronouns: she/her
+- Data scientist by day, piano virtuoso by night—juggling between interpreting complex datasets and composing harmonies. Turning raw data into symphonies of insights!
